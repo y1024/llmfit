@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.9.31](https://github.com/AlexsJones/llmfit/compare/v0.9.30...v0.9.31) (2026-06-03)
+
+
+### Features
+
+* speed up provider navigation when holding shift (gh-571) ([f0d4783](https://github.com/AlexsJones/llmfit/commit/f0d4783dd99f4c12a0fe15d564d8bc787ef7c755))
+* speed up provider navigation when holding shift (gh-571) ([7d74d7d](https://github.com/AlexsJones/llmfit/commit/7d74d7d4a93cb8c229868b00d8bc3385005e3551))
+* upgrade MiniMax default model to M3 ([d45a546](https://github.com/AlexsJones/llmfit/commit/d45a546ebd9eca78cb5e09f191321e67807112d2))
+* upgrade MiniMax default model to M3 ([7407d10](https://github.com/AlexsJones/llmfit/commit/7407d1035ef7dd7b14ed50a1dc1f3f6e21a08a44))
+
 ## [0.9.30](https://github.com/AlexsJones/llmfit/compare/v0.9.29...v0.9.30) (2026-06-01)
 
 
